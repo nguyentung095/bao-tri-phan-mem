@@ -1,0 +1,33 @@
+*{margin: 0; padding: 0;}
+
+.phai {
+    padding: 14px 0;
+}
+
+.phai a {
+    color: #090909;
+    padding-left: 30px;
+    transition: 0.4s;
+    font-weight: bold;
+}
+
+.phai a:hover{
+	text-decoration: none;
+	color: black;
+}
+
+.menu {
+    background: #808080;
+    transition: 0.7s;
+    padding: 30px;
+    position: fixed;
+    width: 100%;
+    
+	z-index: 3;
+}
+
+.menunholai {
+	padding: 10px;
+	
+	
+}
